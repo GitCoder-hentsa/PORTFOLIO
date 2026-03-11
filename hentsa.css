@@ -1,0 +1,90 @@
+#perso{
+  background-color: black;
+color: white;
+height: 60vw;
+width: 35%;
+padding: 4vw;
+}
+#img{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  align-items: center ;
+  margin-left: 5vw;
+  margin-right: 5vw;
+  border: solid aqua;
+  box-shadow: 0px 5px 5px aqua 1vw;
+  margin-top: 2vw;
+}
+
+.tout{
+  height: 60vw;
+  display: flex;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titre{
+  color: aqua;
+  border-bottom: solid white 0.2vw;
+}
+
+.contenus{
+background-color: black;
+  color: white;
+  height: 60vw;
+  width: 65%;
+  padding: 4vw;
+}
+
+.profil{
+  text-align: center;
+}
+
+.title2{
+  color: aqua;
+}
+#grand{
+  width: 60%;
+  height:0.5vw;
+  background-color: white;
+  border-radius: 5vw;
+}
+
+#office{
+  width: 65%;
+  height: 0.5vw;
+  background-color: aqua;
+  border-radius: 5vw;
+}
+
+#pro{
+  width: 35%;
+  height: 0.5vw;
+  background-color: aqua;
+  border-radius: 5vw;
+}
+
+#mala{
+  width: 90%;
+  height: 0.5vw;
+  background-color: aqua;
+  border-radius: 5vw;
+}
+
+#fra{
+  width: 65%;
+  height: 0.5vw;
+  background-color: aqua;
+  border-radius: 5vw;
+}
+
+#ang{
+    width: 45%;
+  height: 0.5vw;
+  background-color: aqua;
+  border-radius: 5vw;
+}
+.dernier{
+  border-bottom: solid white 0.2vw;
+}
+
